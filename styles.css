@@ -8,23 +8,22 @@
                 background-color: lightpink;
                 text-align:center;
             }
-            .three
+            .one
             {
               background-color: lightblue;
               border-radius: 5px;
               padding: 10px;
             }
-            .one
+            .two
             {
                 background-color: yellow;
                 border-radius: 5px;
                 padding: 5px;
             }
-            .two
+            .three
             {
                 background-color: lightgreen;
                 border-radius: 5px;
                 padding: 2px;
             }
-
 
