@@ -1,0 +1,21 @@
+
+            h1
+            {
+                color: red;
+            }
+
+            body {
+                background-color: lightpink;
+                text-align:center;
+            }
+            button
+            {
+              background-color: lightblue;
+              border-radius: 5px;
+              padding: 10px;
+            }
+            .bar
+            {
+                background-color: red;
+            }
+
