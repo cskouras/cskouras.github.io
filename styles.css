@@ -1,34 +1,22 @@
+ h1
+{
+     color: white;
+     text-align:center;
+}
 
-            h1
-            {
-                color: red;
-            }
 
-            body {
-                background-color: lightpink;
-                text-align:center;
-            }
-            .one
-            {
-              background-color: lightblue;
-              border-radius: 5px;
-              padding: 10px;
-            }
-            .two
-            {
-                background-color: yellow;
-                border-radius: 5px;
-                padding: 5px;
-            }
-            .three
-            {
-                background-color: lightgreen;
-                border-radius: 5px;
-                padding: 2px;
-            }
+p {
+    color: white;
+    text-align: center;
+}
 
-            div
-            {
-                padding-top: 50;
-            }
 
+body {
+    background-color: lightblue;
+    text-align:center;
+}
+
+i {
+    color: white;
+}
+           
