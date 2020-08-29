@@ -1,3 +1,86 @@
 body{
     background-color: #3EB1FF;
 }
+
+.back{ /* back buttons */
+    background-color: #3EB1FF;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top:20px;
+    margin-left:10px;
+}
+
+.back:hover {
+   background-color: #0091e6;
+
+}
+
+.mapbutton {
+    background-color: #3EB1FF;
+    color: white ;
+    padding: 30px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.mapbutton:hover {
+    background: #0091e6;
+}
+
+h3 {
+    color: white;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.container {
+    text-align: center;
+    color: #00008B;
+    font-family: "Arial Black", sans-serif;
+
+}
+
+.jumbotron {
+    background: white;
+    opacity: .5;
+    color: #3EB1FF;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.card-title {
+   text-align: center;
+   color: #1B6FBD;
+   font-family: "Arial Black", sans-serif;
+
+}
+
+
+.infotable th, .infotable td {
+  color: white;
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid white;
+  background-color: #1B6FBD;
+}
+
+#countdown {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arial Black";
+    font-style: oblique;
+}
+
+
+.lead {
+    font-size: 15px;
+}
