@@ -4,8 +4,8 @@ body{
 
 .container {
     text-align: center;
-    color: #00008B;
-    font-family: "Arial Black", sans-serif;
+    color: #3EB1FF;
+    font-family: "copperplate";
 
 }
 
@@ -17,27 +17,15 @@ body{
     font-size: 50px;
 }
 
-.card-title {
-   text-align: center;
-   color: #1B6FBD;
-   font-family: "Arial Black", sans-serif;
-
-}
-
-
-.lead {
-    font-size: 15px;
-}
-
 
 p {
   font-family: 'Inconsolata';
   font-size: 20px;
-  color: #555;
+  color: white;
   line-height: 30px;
 }
 
 a {
-  color: #ffffff;
+  color: white;
   text-decoration: none;
 }
