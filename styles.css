@@ -4,8 +4,8 @@ body{
 
 .container {
     text-align: center;
-    color: #3EB1FF;
-    font-family: "copperplate";
+    margin: 100px auto;
+    max-width: 560px;
 
 }
 
