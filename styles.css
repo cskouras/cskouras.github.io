@@ -17,8 +17,9 @@ h3 {
 }
 
 h1 {
-    color: white;
+    color: #728B98;
     font-family: courier;
+    font-weight: bold;
 }
 
 a {
@@ -33,4 +34,5 @@ a {
 
 .icons {
   margin-top: 37.52px;
+  color: white;
 }
