@@ -2,45 +2,6 @@ body{
     background-color: #3EB1FF;
 }
 
-.back{ /* back buttons */
-    background-color: #3EB1FF;
-    color: white;
-    border: 2px solid white;
-    padding: 10px 20px;
-    text-align: center;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 4px;
-    margin-top:20px;
-    margin-left:10px;
-}
-
-.back:hover {
-   background-color: #0091e6;
-
-}
-
-.mapbutton {
-    background-color: #3EB1FF;
-    color: white ;
-    padding: 30px 30px;
-    text-align: center;
-    display: inline-block;
-    font-size: 20px;
-    border: 3px solid white;
-    border-radius: 10px;
-}
-
-.mapbutton:hover {
-    background: #0091e6;
-}
-
-h3 {
-    color: white;
-    font-size: 15px;
-    margin-left: 5px;
-}
-
 .container {
     text-align: center;
     color: #00008B;
@@ -64,8 +25,19 @@ h3 {
 }
 
 
-
-
 .lead {
     font-size: 15px;
+}
+
+
+p {
+  font-family: 'Inconsolata';
+  font-size: 20px;
+  color: #555;
+  line-height: 30px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
 }
