@@ -13,15 +13,17 @@ body{
 
 h3 {
   color: white;
+  font-family: courier;
 }
 
 h1 {
     color: white;
+    font-family: courier;
 }
 
 a {
-  color: white;
-  text-decoration: underline;
+  color: #728B98;
+
 }
 
 
