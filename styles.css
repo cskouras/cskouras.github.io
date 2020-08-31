@@ -9,14 +9,6 @@ body{
 
 }
 
-.jumbotron {
-    background: white;
-    opacity: 1;
-    color: #3EB1FF;
-    margin-bottom: 10px;
-    font-size: 50px;
-}
-
 
 p {
   font-family: 'Inconsolata';
